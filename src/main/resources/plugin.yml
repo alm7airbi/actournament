@@ -1,0 +1,4 @@
+name: ACtournaments
+version: '${project.version}'
+main: actournament.actournaments.ACtournaments
+api-version: '1.20'
